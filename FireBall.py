@@ -54,7 +54,7 @@ df['X_Orbit']=x_orbit
 df['Y_Orbit']=y_orbit
 
 #Extra step to make the shape look good
-#(all fireballs images are focused towareds earth) ;)
+#(all fireballs images are focused towards earth) ;)
 
 fireball_image=[]
 for i,v in df.iterrows():
